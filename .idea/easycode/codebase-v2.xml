@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app01/migrations/0001_initial.py;D:/my_ai_agent/app01/migrations/0002_delete_role.py;D:/my_ai_agent/app01/migrations/__init__.py;D:/my_ai_agent/app01/static/css/bootstrap.css;D:/my_ai_agent/app01/templates/user_add.html;D:/my_ai_agent/app01/templates/user_list.html;D:/my_ai_agent/app01/__init__.py;D:/my_ai_agent/app01/admin.py;D:/my_ai_agent/app01/apps.py;D:/my_ai_agent/app01/models.py;D:/my_ai_agent/app01/tests.py;D:/my_ai_agent/app01/views.py;D:/my_ai_agent/my_ai_agent/__init__.py;D:/my_ai_agent/my_ai_agent/asgi.py;D:/my_ai_agent/my_ai_agent/settings.py;D:/my_ai_agent/my_ai_agent/urls.py;D:/my_ai_agent/my_ai_agent/wsgi.py;D:/my_ai_agent/manage.py" />
+  </component>
+</project>

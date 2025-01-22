@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     # 'tasks',  # 注册tasks
 ]
 
+DEEPSEEK_API_KEY = 'sk-ee3f653259fd440f97218d095aa72c43'
+
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',  # 放在最上面  前后端端口不一致
     "django.middleware.security.SecurityMiddleware",
